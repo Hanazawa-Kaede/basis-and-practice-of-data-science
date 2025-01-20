@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RdataTmp
+.RData
+.Ruserdata
+.xlsx
+.csv
+99_data/
+miscellaneous/
+.venv
+.pdf
+.png
+.ipynb
